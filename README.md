@@ -15,10 +15,7 @@ hotstar/
 ├── package.json
 └── hotstar image/
 └── images/
-
-yaml
-Copy
-Edit
+'''
 
 ---
 
