@@ -3,7 +3,7 @@
 
 A front-end clone of Disney+ Hotstar built using HTML, CSS, and JavaScript. This project is designed to mimic the user interface and content layout of the original Hotstar platform for learning and UI design purposes.
 
----
+
 
 ## 📁 Project Structure
 ```
