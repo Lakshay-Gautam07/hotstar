@@ -1,7 +1,4 @@
-Generated README.md
-markdown
-Copy
-Edit
+
 # 🔥 Hotstar Clone
 
 A front-end clone of Disney+ Hotstar built using HTML, CSS, and JavaScript. This project is designed to mimic the user interface and content layout of the original Hotstar platform for learning and UI design purposes.
@@ -9,7 +6,7 @@ A front-end clone of Disney+ Hotstar built using HTML, CSS, and JavaScript. This
 ---
 
 ## 📁 Project Structure
-
+```
 hotstar/
 └── Hotstar Clone/
 ├── index.html
@@ -95,19 +92,9 @@ User authentication and dashboard
 
 Dynamic content using JSON or backend
 
-📌 License
-This project is open source and available under the MIT License.
 
 👤 Author
-Your Name
+Lakshay Gautam
 GitHub
-
-yaml
-Copy
-Edit
-
----
-
-Would you like this `README.md` file saved inside your project folder and provided as a downloadable link? ​:contentReference[oaicite:0]{index=0}​
 
 
